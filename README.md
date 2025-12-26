@@ -76,10 +76,7 @@
 
   <hr />
 
-  <h2>📄 License</h2>
-  <p>
-    This project is licensed under the MIT License. Feel free to fork and customize it.
-  </p>
+
 
 </body>
 </html>
