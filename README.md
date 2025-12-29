@@ -19,8 +19,8 @@
   <p>
     You can view the live version of my portfolio here:
     <br />
-    <a href="" target="_blank">
-      https://your-live-link-here.com
+    <a href="https://my-portfolio-sooty-eta-pe9pwjcp4d.vercel.app/" target="_blank">
+     MY-Portfolio
     </a>
   </p>
 
