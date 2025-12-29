@@ -26,17 +26,12 @@ const Contact: React.FC = () => {
     // Construct email body
     const emailBody = `Hello Aranya,
 
-You have received a new message from your portfolio website:
-
-Name: ${name}
-Email: ${email}
-Subject: ${subject}
-
-Message:
 ${message}
 
 Best regards,
-Portfolio Contact Form`;
+${name}
+${email}`;
+
 
     // Construct mailto URL
     const mailtoUrl = `mailto:bahugunaaranya@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(emailBody)}`;
