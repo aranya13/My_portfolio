@@ -59,8 +59,8 @@ const projects: Project[] = [
     id: 6,
     title: "ISL MERN Website",
     description:
-      "Full-featured website for Indian Super League football tournament with live match updates, player statistics, team management, fan engagement features, and real-time notifications using MERN stack.",
-    tags: ["MongoDB", "Express", "React", "Node.js", "Sports", "Real-time"],
+      "Completed an intensive technical internship at India Space Lab, gaining hands-on experience in CanSat/CubeSat architecture, drone technology",
+    tags: ["MongoDB", "Express", "React", "Node.js", "Real-time"],
     image: islImage,
     link: "https://github.com/aranya13/ISL-"
   }
